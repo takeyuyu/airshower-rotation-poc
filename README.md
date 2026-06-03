@@ -7,7 +7,7 @@
 本PoC（第2作・後編）は、残り半分の **ちゃんと回ったか** を判定する。
 
 - 前作：腕の上げの判定 → https://github.com/takeyuyu/airshower-tap-poc
-- 記事（後編）：※note記事のURLを公開後にここへ追記
+- 記事（後編）：https://note.com/major_bobcat4320/n/ne1041a66ad4d?app_launch=false
 
 ## このコードが示すこと
 
